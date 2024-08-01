@@ -1,3 +1,11 @@
+# Color Guessing App with Reactjs and TypeScript.
+
+Guess the color on the screen by clicking on the options in the buttons.
+
+Live site URL ->  https://otpz.github.io/color-guessing-reactjs/
+
+![1](https://github.com/user-attachments/assets/f23774b1-3773-4d05-9aec-55bba6b24199)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
