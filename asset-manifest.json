@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/color-guessing-reactjs/static/css/main.8eba4a51.css",
+    "main.js": "/color-guessing-reactjs/static/js/main.a042c1b5.js",
+    "static/js/453.5eae2383.chunk.js": "/color-guessing-reactjs/static/js/453.5eae2383.chunk.js",
+    "index.html": "/color-guessing-reactjs/index.html",
+    "main.8eba4a51.css.map": "/color-guessing-reactjs/static/css/main.8eba4a51.css.map",
+    "main.a042c1b5.js.map": "/color-guessing-reactjs/static/js/main.a042c1b5.js.map",
+    "453.5eae2383.chunk.js.map": "/color-guessing-reactjs/static/js/453.5eae2383.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8eba4a51.css",
+    "static/js/main.a042c1b5.js"
+  ]
+}
